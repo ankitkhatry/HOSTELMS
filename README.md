@@ -56,7 +56,7 @@ Then, open `http://localhost/HOSTELMS/` in a browser. 🌐
 ├── 📄 update.php          # Update resident details
 ├── 📄 connection.php      # Database connection file
 ├── 📄 style.css           # Styling for UI
-├── 📄 login.html           # Login system
+├── 📄 login.php           # Login system
 ├── 📄 db.sql              # Database import file
 └── 📄 README.md           # Documentation
 ```
