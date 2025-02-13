@@ -1,4 +1,4 @@
-# Hostel Management System �
+# Hostel Management System 🏠
 
 A simple **Hostel Management System** built using **PHP and MySQL** to perform CRUD (Create, Read, Update, Delete) operations for managing residents. 🛠️
 
